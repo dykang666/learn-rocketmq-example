@@ -1,0 +1,78 @@
+2024-06-21 13:54:56.591  INFO 20572 --- [main] c.e.r.RockermqProviderServiceApplication : Starting RockermqProviderServiceApplication on DESKTOP-OFRHH00 with PID 20572 (F:\DemoWorkSpace\springcloudalibaba\rockermq-provider-service\target\classes started by YAHJSK in F:\DemoWorkSpace\springcloudAlibaba)
+2024-06-21 13:54:56.594  INFO 20572 --- [main] c.e.r.RockermqProviderServiceApplication : The following profiles are active: dev
+2024-06-21 13:54:57.160  INFO 20572 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8097 (http)
+2024-06-21 13:54:57.166  INFO 20572 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-06-21 13:54:57.166  INFO 20572 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.46]
+2024-06-21 13:54:57.211  INFO 20572 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-06-21 13:54:57.211  INFO 20572 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 581 ms
+2024-06-21 13:54:58.790  INFO 20572 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2024-06-21 13:54:58.933  INFO 20572 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8097 (http) with context path ''
+2024-06-21 13:54:58.939  INFO 20572 --- [main] c.e.r.RockermqProviderServiceApplication : Started RockermqProviderServiceApplication in 2.665 seconds (JVM running for 3.36)
+2024-06-21 13:56:28.785  INFO 20564 --- [main] c.e.r.RockermqProviderServiceApplication : Starting RockermqProviderServiceApplication on DESKTOP-OFRHH00 with PID 20564 (F:\DemoWorkSpace\springcloudalibaba\rockermq-provider-service\target\classes started by YAHJSK in F:\DemoWorkSpace\springcloudAlibaba)
+2024-06-21 13:56:28.787  INFO 20564 --- [main] c.e.r.RockermqProviderServiceApplication : The following profiles are active: dev
+2024-06-21 13:56:29.361  INFO 20564 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8097 (http)
+2024-06-21 13:56:29.366  INFO 20564 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-06-21 13:56:29.366  INFO 20564 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.46]
+2024-06-21 13:56:29.412  INFO 20564 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-06-21 13:56:29.412  INFO 20564 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 592 ms
+2024-06-21 13:56:31.051  INFO 20564 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2024-06-21 13:56:31.160  INFO 20564 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8097 (http) with context path ''
+2024-06-21 13:56:31.166  INFO 20564 --- [main] c.e.r.RockermqProviderServiceApplication : Started RockermqProviderServiceApplication in 2.621 seconds (JVM running for 3.611)
+2024-06-21 14:23:04.943  INFO 19568 --- [main] c.e.r.RockermqProviderServiceApplication : Starting RockermqProviderServiceApplication on DESKTOP-OFRHH00 with PID 19568 (F:\DemoWorkSpace\springcloudalibaba\rockermq-provider-service\target\classes started by YAHJSK in F:\DemoWorkSpace\springcloudAlibaba)
+2024-06-21 14:23:04.945  INFO 19568 --- [main] c.e.r.RockermqProviderServiceApplication : The following profiles are active: dev
+2024-06-21 14:23:05.525  INFO 19568 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8097 (http)
+2024-06-21 14:23:05.530  INFO 19568 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-06-21 14:23:05.530  INFO 19568 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.46]
+2024-06-21 14:23:05.578  INFO 19568 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-06-21 14:23:05.578  INFO 19568 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 602 ms
+2024-06-21 14:23:07.207  INFO 19568 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2024-06-21 14:23:07.314  INFO 19568 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8097 (http) with context path ''
+2024-06-21 14:23:07.320  INFO 19568 --- [main] c.e.r.RockermqProviderServiceApplication : Started RockermqProviderServiceApplication in 2.69 seconds (JVM running for 3.393)
+2024-06-21 14:30:50.983  INFO 14776 --- [main] c.e.r.RockermqProviderServiceApplication : Starting RockermqProviderServiceApplication on DESKTOP-OFRHH00 with PID 14776 (F:\DemoWorkSpace\springcloudalibaba\rockermq-provider-service\target\classes started by YAHJSK in F:\DemoWorkSpace\springcloudAlibaba)
+2024-06-21 14:30:50.985  INFO 14776 --- [main] c.e.r.RockermqProviderServiceApplication : The following profiles are active: dev
+2024-06-21 14:30:51.596  INFO 14776 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8097 (http)
+2024-06-21 14:30:51.601  INFO 14776 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-06-21 14:30:51.602  INFO 14776 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.46]
+2024-06-21 14:30:51.649  INFO 14776 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-06-21 14:30:51.649  INFO 14776 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 631 ms
+2024-06-21 14:30:53.294  INFO 14776 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2024-06-21 14:30:53.394  INFO 14776 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8097 (http) with context path ''
+2024-06-21 14:30:53.400  INFO 14776 --- [main] c.e.r.RockermqProviderServiceApplication : Started RockermqProviderServiceApplication in 2.741 seconds (JVM running for 3.399)
+2024-06-21 14:35:05.608  INFO 14776 --- [http-nio-8097-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-21 14:35:05.608  INFO 14776 --- [http-nio-8097-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-06-21 14:35:05.612  INFO 14776 --- [http-nio-8097-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 4 ms
+2024-06-21 14:35:51.849  INFO 14776 --- [http-nio-8097-exec-2] c.e.r.service.TransactionListner         : 事物id:177db4bf-a643-42ae-b3b3-6f8eb7459cb9
+2024-06-21 14:36:05.614  INFO 14776 --- [http-nio-8097-exec-2] c.e.r.service.MQServiceImpl              : 事物消息发送成功
+2024-06-21 14:36:05.615  INFO 14776 --- [http-nio-8097-exec-2] c.e.r.service.MQServiceImpl              : 事物消息发送结果:SendResult [sendStatus=SEND_OK, msgId=7F00000139B818B4AAC26A20DABD0000, offsetMsgId=null, messageQueue=MessageQueue [topic=topic15, brokerName=broker-a, queueId=3], queueOffset=0]
+2024-06-21 14:36:31.366  INFO 14776 --- [http-nio-8097-exec-4] c.e.r.service.TransactionListner         : 事物id:9b73a39e-9cda-411a-9371-c3c56f211bc4
+2024-06-21 14:36:41.143  INFO 14776 --- [http-nio-8097-exec-4] c.e.r.service.MQServiceImpl              : 事物消息发送成功
+2024-06-21 14:36:41.143  INFO 14776 --- [http-nio-8097-exec-4] c.e.r.service.MQServiceImpl              : 事物消息发送结果:SendResult [sendStatus=SEND_OK, msgId=7F00000139B818B4AAC26A21A71C0003, offsetMsgId=null, messageQueue=MessageQueue [topic=topic15, brokerName=broker-a, queueId=0], queueOffset=1]
+2024-06-21 14:37:27.757  INFO 14776 --- [http-nio-8097-exec-6] c.e.r.service.TransactionListner         : 事物id:ba3053a6-614b-4868-9e10-971aca085c73
+2024-06-21 14:38:04.906  INFO 14776 --- [http-nio-8097-exec-6] c.e.r.service.MQServiceImpl              : 事物消息发送成功
+2024-06-21 14:38:06.423  INFO 14776 --- [http-nio-8097-exec-6] c.e.r.service.MQServiceImpl              : 事物消息发送结果:SendResult [sendStatus=SEND_OK, msgId=7F00000139B818B4AAC26A22833F0006, offsetMsgId=null, messageQueue=MessageQueue [topic=topic15, brokerName=broker-a, queueId=3], queueOffset=3]
+2024-06-21 14:38:21.048  INFO 14776 --- [http-nio-8097-exec-8] c.e.r.service.TransactionListner         : 事物id:ef471257-641c-4488-8025-d925d747341f
+2024-06-21 14:38:31.894  INFO 14776 --- [http-nio-8097-exec-8] c.e.r.service.MQServiceImpl              : 事物消息发送成功
+2024-06-21 14:38:33.253  INFO 14776 --- [http-nio-8097-exec-8] c.e.r.service.MQServiceImpl              : 事物消息发送结果:SendResult [sendStatus=SEND_OK, msgId=7F00000139B818B4AAC26A2357760009, offsetMsgId=null, messageQueue=MessageQueue [topic=topic15, brokerName=broker-a, queueId=3], queueOffset=5]
+2024-06-21 14:56:05.725  INFO 20140 --- [main] c.e.r.RockermqProviderServiceApplication : Starting RockermqProviderServiceApplication on DESKTOP-OFRHH00 with PID 20140 (F:\DemoWorkSpace\springcloudalibaba\rockermq-provider-service\target\classes started by YAHJSK in F:\DemoWorkSpace\springcloudAlibaba)
+2024-06-21 14:56:05.727  INFO 20140 --- [main] c.e.r.RockermqProviderServiceApplication : The following profiles are active: dev
+2024-06-21 14:56:06.307  INFO 20140 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8097 (http)
+2024-06-21 14:56:06.313  INFO 20140 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-06-21 14:56:06.313  INFO 20140 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.46]
+2024-06-21 14:56:06.359  INFO 20140 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-06-21 14:56:06.359  INFO 20140 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 603 ms
+2024-06-21 14:56:07.982  INFO 20140 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2024-06-21 14:56:08.084  INFO 20140 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8097 (http) with context path ''
+2024-06-21 14:56:08.089  INFO 20140 --- [main] c.e.r.RockermqProviderServiceApplication : Started RockermqProviderServiceApplication in 2.694 seconds (JVM running for 3.364)
+2024-06-21 14:56:42.838  INFO 20140 --- [http-nio-8097-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-21 14:56:42.838  INFO 20140 --- [http-nio-8097-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-06-21 14:56:42.843  INFO 20140 --- [http-nio-8097-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 5 ms
+2024-06-21 14:56:43.220  INFO 20140 --- [http-nio-8097-exec-1] c.e.r.service.MQServiceImpl              : 单向消息已发送
+2024-06-21 14:57:45.367  INFO 20140 --- [http-nio-8097-exec-2] c.e.r.service.MQServiceImpl              : 单向消息已发送
+2024-06-21 14:58:09.850  INFO 20140 --- [http-nio-8097-exec-4] c.e.r.service.MQServiceImpl              : 单向消息已发送
+2024-06-21 14:58:19.782  INFO 20140 --- [http-nio-8097-exec-6] c.e.r.service.MQServiceImpl              : 单向消息已发送
+2024-06-21 14:59:15.740  INFO 20140 --- [http-nio-8097-exec-8] c.e.r.service.MQServiceImpl              : 单向消息已发送
+2024-06-21 14:59:36.097  INFO 20140 --- [http-nio-8097-exec-9] c.e.r.service.MQServiceImpl              : 单向消息已发送
+2024-06-21 21:08:39.472  INFO 20140 --- [NettyClientSelector_1] RocketmqRemoting                         : closeChannel: close the connection to remote address[] result: true
+2024-06-21 21:08:39.920  INFO 20140 --- [NettyClientSelector_1] RocketmqRemoting                         : closeChannel: close the connection to remote address[] result: true
+2024-06-21 21:08:41.536  INFO 20140 --- [NettyClientSelector_1] RocketmqRemoting                         : closeChannel: close the connection to remote address[] result: true
+2024-06-21 21:08:41.970  INFO 20140 --- [NettyClientSelector_1] RocketmqRemoting                         : closeChannel: close the connection to remote address[] result: true

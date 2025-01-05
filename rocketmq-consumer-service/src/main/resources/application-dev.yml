@@ -1,0 +1,12 @@
+rocketmq:
+  name-server: 127.0.0.1:9876
+  consumer:
+    consumer-thread-min: 20
+    consumer-thread-max: 64
+    max-reconsume-times: 2  # 未生效
+    delay-level-when-next-consume: 1s  # 未生效
+
+
+
+
+

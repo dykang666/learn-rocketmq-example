@@ -1,0 +1,7 @@
+spring:
+ application:
+    name: rocketmq-consumer-service2
+ profiles:
+   active: dev
+server:
+  port: 8099
