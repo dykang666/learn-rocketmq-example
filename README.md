@@ -7,7 +7,7 @@
 seata和RocketMQ的消息对比
 ![image](https://github.com/user-attachments/assets/fc17deea-0d88-4979-a94a-97a5a046f0db)
 
-4、本地事务修改不支持全局性事务，只支持单个服务切换数据源处理
+4、本地事务操作不支持全局性事务，只支持单个服务切换数据源处理
 
 ![image](https://github.com/user-attachments/assets/d731a689-fef6-4673-abda-8a83605a2ec6)
 
